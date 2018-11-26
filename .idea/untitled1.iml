@@ -1,22 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/doctrine/doctrine-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/doctrine/doctrine-cache-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/doctrine/doctrine-migrations-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/doctrine/migrations" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/doctrine/reflection" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/easycorp/easy-log-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/facebook/webdriver" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/fig/link-util" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/jdorn/sql-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/ocramius/package-versions" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/ocramius/proxy-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/psr/link" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/sensio/framework-extra-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/asset" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/browser-kit" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/debug-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/debug-pack" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/doctrine-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/dom-crawler" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/dotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/expression-language" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/flex" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/form" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/framework-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/intl" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/maker-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/monolog-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/monolog-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/options-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/orm-pack" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/panther" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/phpunit-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/polyfill-intl-icu" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/profiler-pack" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/property-access" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/property-info" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/security" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/security-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/serializer" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/serializer-pack" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/stopwatch" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/swiftmailer-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/test-pack" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/twig-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/twig-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/validator" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/web-link" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/web-profiler-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/web-server-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/zendframework/zend-code" />
+      <excludeFolder url="file://$MODULE_DIR$/insider/vendor/zendframework/zend-eventmanager" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library name="PHARS">
-        <CLASSES>
-          <root url="phar://$MODULE_DIR$/my_project/vendor/symfony/phpunit-bridge/Tests/DeprecationErrorHandler/deprecation.phar/" />
-          <root url="phar://$MODULE_DIR$/my_project/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
-          <root url="phar://$MODULE_DIR$/my_project/vendor/symfony/dependency-injection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
-        </CLASSES>
-        <SOURCES>
-          <root url="phar://$MODULE_DIR$/my_project/vendor/symfony/phpunit-bridge/Tests/DeprecationErrorHandler/deprecation.phar/" />
-          <root url="phar://$MODULE_DIR$/my_project/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
-          <root url="phar://$MODULE_DIR$/my_project/vendor/symfony/dependency-injection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
-        </SOURCES>
-      </library>
-    </orderEntry>
   </component>
 </module>
